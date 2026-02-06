@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'WebAppDeployProblemaRegressionv4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A07EA79819A4950A1118D103A2F492A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64D7B50E799F4F53B1EAD082D9694BFE }}
